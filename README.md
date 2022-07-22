@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 Actually, I am an Electrical and Electronics Engineer. While working in various sectors, I realized that I was always around software sector. At the same time, I decided to turn my direction completely to software because of my interest. Currently, I am trying to improve myself as a Full-Stack developer.
+🔭 Actually, I am an Electrical and Electronics Engineer. While working in various sectors, I realized that I was always around software. At the same time, I decided to turn my direction completely to software because of my interest. Currently, I am trying to improve myself as a Full-Stack developer.
 
 ## Tech Stack
 
